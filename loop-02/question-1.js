@@ -3,7 +3,6 @@
 // return -1
 
 
-
 let arr = [4, 2, 0, 10, 8, 30]
 
 function searchElement(arr , el){
@@ -19,3 +18,4 @@ function searchElement(arr , el){
 
 let result = searchElement(arr,10)
 console.log(result)
+
